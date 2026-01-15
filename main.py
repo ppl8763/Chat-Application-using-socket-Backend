@@ -7,6 +7,7 @@ sio = socketio.AsyncServer(
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "https://z1vmgmts-5173.inc1.devtunnels.ms" ,
+        "https://chat-application-using-socket-frontend.onrender.com"
     ]
 )
 
